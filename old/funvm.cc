@@ -5,8 +5,10 @@
 #include <deque>
 #include <memory>
 #include <map>
+#include <sstream>
 using namespace std;
 #include "Opcode.cc"
+#include "P.cc"
 #include "Data.cc"
 #include "Machine.cc"
 
